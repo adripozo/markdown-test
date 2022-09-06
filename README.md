@@ -97,7 +97,7 @@ La primera forma de poner una imagen es:
 ![visual studio code logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png)
 
 La segunda forma es: ![aqui va el nombre](aqui va el nombre de como lo guardaste en la carpeta de markdown + png)
-![visual studio code logo]()
+![visual studio code logo](vscode.png "vscode logo")
 
 
 <!-- GITHUB MARKDOWN -->
