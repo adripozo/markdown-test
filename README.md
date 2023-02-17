@@ -190,9 +190,9 @@ Los links de los badges se encuentran en [Badges](https://dev.to/envoy_/150-badg
 ### **Imagen**
 - Debido a que en markdown no se puede modificar el tamaño de la imagen vamos a usar html en un archivo md. Aunque esto funciona, es recomendable usar solo md para archivos md.
 
-`<img src="Aqui va el link" wight=N°px height=N°px>`  
+`<img src="Aqui va el link" width=N°px height=N°px>`  
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" wight=50px height=50px>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width=50px height=50px>
 
 ### **Subrayado**
 `<ins>Aqui va el texto</ins>`  
